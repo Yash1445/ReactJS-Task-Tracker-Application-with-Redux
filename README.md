@@ -99,10 +99,6 @@ npm run preview
 - localStorage persistence is handled in middleware (separation of concerns, no persistence logic inside components).
 - Reordering updates a stable `order` field to persist drag-and-drop positions across reloads.
 
-## Screenshots
-
-- `docs/screenshots/tasks-page.png` (placeholder)
-- `docs/screenshots/dashboard-page.png` (placeholder)
 
 ## Future Improvements
 - Add unit tests (Redux slice + selectors)
